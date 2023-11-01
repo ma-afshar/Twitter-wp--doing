@@ -1,0 +1,13 @@
+@import url('https://v1.fontapi.ir/css/Shabnam');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+body{
+    direction: rtl;
+    font-family: Shabnam, sans-serif;
+}
